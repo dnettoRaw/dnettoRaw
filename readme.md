@@ -23,7 +23,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dnettoraw&label=Profile%20views&color=0e75b6&style=flat" alt="dnettoraw" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dnettoraw&theme=onedark&column=-1&no-frame=true&no-bg=true" alt="dnettoraw" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-fork.vercel.app/?username=dnettoraw&theme=onedark&column=-1&no-frame=true&no-bg=true" alt="dnettoraw" /></a> </p>
 
 <p align="center"> <a href="https://twitter.com/shazan_d" target="blank"><img src="https://img.shields.io/twitter/follow/shazan_d?logo=twitter&style=for-the-badge" alt="shazan_d" /></a> </p>
 

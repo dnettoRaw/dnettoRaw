@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Primland apps](https://gitHub.com/primland)
 
-- 🌱 I’m currently learning ** python **
+- 🌱 I’m currently learning **python**
 
 - 👯 I’m looking to collaborate on [Primland App's](https://gitHub.com/primland)
 

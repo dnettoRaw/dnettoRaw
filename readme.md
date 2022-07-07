@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Daniel Netto</h1>
 <h3 align="center">A passionate developer from somewhere</h3>
 
-- 🔭 I’m currently working on [Tauri Templaite](https://gitHub.com/dnettoRaw/tauri)
+- 🔭 I’m currently working on [Primland apps](https://gitHub.com/primland)
 
-- 🌱 I’m currently learning **rust, cpp, ts**
+- 🌱 I’m currently learning ** python **
 
 - 👯 I’m looking to collaborate on [Primland App's](https://gitHub.com/primland)
 

@@ -43,6 +43,10 @@
 <p><img align="center" src="https://github-readme-stats-dr-fork.vercel.app/api/top-langs?username=dnettoraw&show_icons=true&locale=en&layout=compact&theme=nord" alt="dnettoraw" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-dr-fork.vercel.app/api?username=dnettoraw&show_icons=true&locale=en&theme=nord" alt="dnettoraw" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats-dr-fork.vercel.app/api/wakatime?username=dnettoRaw&layout=compact&locale=en&theme=nord" alt="dnettoraw" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=dnettoRaw&layout=compact&locale=en&theme=nord" alt="dnettoraw" /></p> -->
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dnettoraw&theme=dark" alt="dnettoraw" /></p>
+

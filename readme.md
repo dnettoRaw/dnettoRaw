@@ -46,7 +46,7 @@
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=dnettoRaw&layout=compact&locale=en&theme=nord" alt="dnettoraw" /></p> -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-239%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-239%20hrs%2018%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-20-blue)
 
@@ -132,7 +132,7 @@ Makefile                 3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/dnettoRaw/dnettoRaw/main/charts/bar_graph.png) 
 
 
- Last Updated on 17/08/2022 10:24:57 UTC
+ Last Updated on 17/08/2022 10:27:35 UTC
 <!--END_SECTION:waka-->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dnettoraw&theme=dark" alt="dnettoraw" /></p>

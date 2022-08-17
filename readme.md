@@ -46,13 +46,13 @@
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=dnettoRaw&layout=compact&locale=en&theme=nord" alt="dnettoraw" /></p> -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-239%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-242%20hrs%206%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-25%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 446 Contributions in the Year 2022
+> 🏆 1,440 Contributions in the Year 2022
  > 
 > 📦 390.0 kB Used in GitHub's Storage 
  > 
@@ -60,7 +60,7 @@
  > 
 > 📜 58 Public Repositories 
  > 
-> 🔑 49 Private Repositories  
+> 🔑 50 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
@@ -111,7 +111,7 @@ Windows                  5 hrs 56 mins       ███████░░░░�
 ![Chart not found](https://raw.githubusercontent.com/dnettoRaw/dnettoRaw/main/charts/bar_graph.png) 
 
 
- Last Updated on 17/08/2022 10:34:24 UTC
+ Last Updated on 17/08/2022 16:51:54 UTC
 <!--END_SECTION:waka-->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dnettoraw&theme=dark" alt="dnettoraw" /></p>

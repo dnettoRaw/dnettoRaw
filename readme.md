@@ -46,9 +46,9 @@
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=dnettoRaw&layout=compact&locale=en&theme=nord" alt="dnettoraw" /></p> -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-239%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-239%20hrs%2013%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-20-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-25%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -88,8 +88,6 @@ Sunday       3 commits      ░░░░░░░░░░░░░░░░░�
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: Europe/Paris
-
 💬 Programming Languages: 
 Other                    13 hrs              ███████████████░░░░░░░░░░   61.47% 
 JavaScript               4 hrs 25 mins       █████░░░░░░░░░░░░░░░░░░░░   20.88% 
@@ -102,37 +100,18 @@ Browser                  8 hrs 9 mins        █████████░░�
 VS Code                  7 hrs 48 mins       █████████░░░░░░░░░░░░░░░░   37.52% 
 iTerm2                   4 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   23.28%
 
-🐱‍💻 Projects: 
-Github                   10 hrs 4 mins       ████████████░░░░░░░░░░░░░   48.46% 
-hackapi                  7 hrs 21 mins       ████████░░░░░░░░░░░░░░░░░   35.35% 
-Listening on youtube     1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.05% 
-stackoverflow            38 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.06% 
-vercel                   27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.17%
-
 💻 Operating System: 
 Mac                      14 hrs 52 mins      █████████████████░░░░░░░░   71.46% 
 Windows                  5 hrs 56 mins       ███████░░░░░░░░░░░░░░░░░░   28.54%
 
 ```
 
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               13 repos            ███████░░░░░░░░░░░░░░░░░░   30.23% 
-C                        6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.95% 
-Shell                    6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.95% 
-TypeScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.3% 
-Makefile                 3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.98%
-
-```
-
-
 **Timeline**
 
 ![Chart not found](https://raw.githubusercontent.com/dnettoRaw/dnettoRaw/main/charts/bar_graph.png) 
 
 
- Last Updated on 17/08/2022 10:12:50 UTC
+ Last Updated on 17/08/2022 10:22:13 UTC
 <!--END_SECTION:waka-->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dnettoraw&theme=dark" alt="dnettoraw" /></p>

@@ -29,7 +29,7 @@ jobs:
           SHOW_PROFILE_VIEWS: false
           SHOW_SHORT_INFO: True
           LOCALE: en
-          COMMIT_BY_ME: False
+          COMMIT_BY_ME: true
           COMMIT_MESSAGE: Updated with Dev Metrics
           UPDATED_DATE_FORMAT: "%d/%m/%Y %H:%M:%S"
           SYMBOL_VERSION: 2

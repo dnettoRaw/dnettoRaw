@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Daniel Netto</h1>
 <h3 align="center">A passionate developer from somewhere</h3>
 
-- 🔭 I’m currently working on [Primland apps](https://gitHub.com/primland)
+- 🔭 I’m currently working on [little app](https://gitHub.com/dnettoRaw/littleApp)
 
-- 🌱 I’m currently learning **python**
+- 🌱 I’m currently learning **unreal**
 
 - 👯 I’m looking to collaborate on [Primland App's](https://gitHub.com/primland)
 
-- 🤝 I’m looking for help with [Perpertual Violet](https://gitHub.com/dnettoRaw/pv)
+- 🤝 I’m looking for help with Perpertual Violet (soon)
 
 - 👨‍💻 All of my projects are available at [https://portfolio.dnetto.dev](https://portfolio.dnetto.dev)
-
-- 📝 I regularly write articles on [https://blog.dnetto.dev](https://blog.dnetto.dev)
 
 - 💬 Ask me about **c, shell script, Arduino, hardware conception**
 

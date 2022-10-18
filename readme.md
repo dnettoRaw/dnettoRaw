@@ -19,8 +19,6 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=dnettoraw&label=Profile%20views&color=0e75b6&style=flat" alt="dnettoraw" /> </p>
-
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-fork.vercel.app/?username=dnettoraw&theme=onedark&column=-1&no-frame=true&no-bg=true" alt="dnettoraw" /></a> </p>
 
 <p align="center"> <a href="https://twitter.com/shazan_d" target="blank"><img src="https://img.shields.io/twitter/follow/shazan_d?logo=twitter&style=for-the-badge" alt="shazan_d" /></a> </p>
@@ -42,6 +40,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-dr-fork.vercel.app/api?username=dnettoraw&show_icons=true&locale=en&theme=nord" alt="dnettoraw" /></p>
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=dnettoRaw&layout=compact&locale=en&theme=nord" alt="dnettoraw" /></p> -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dnettoraw&label=Profile%20views&color=0e75b6&style=flat" alt="dnettoraw" /> </p>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-447%20hrs%2034%20mins-blue)

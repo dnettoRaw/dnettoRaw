@@ -41,7 +41,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-dr-fork.vercel.app/api?username=dnettoraw&show_icons=true&locale=en&theme=nord" alt="dnettoraw" /></p>
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=dnettoRaw&layout=compact&locale=en&theme=nord" alt="dnettoraw" /></p> -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dnettoraw&label=Profile%20views&color=0e75b6&style=flat" alt="dnettoraw" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dnettoraw&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="dnettoraw" /> </p>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-772%20hrs%2034%20mins-blue)

@@ -54,18 +54,18 @@
 
 ---
 
-### 💡 Coding Habits
+### 🏆 Notable Contributions
 
 <div align="center">
-  <img src="./generated/habits.svg" alt="Coding Habits" />
+  <img src="./generated/notable.svg" alt="Notable Contributions" />
 </div>
 
 ---
 
-### 🏆 Achievements
+### 💡 Recent Activity
 
 <div align="center">
-  <img src="./generated/achievements.svg" alt="GitHub Achievements" />
+  <img src="./generated/activity.svg" alt="Recent Activity" />
 </div>
 
 ---

@@ -12,17 +12,28 @@ jobs:
       contents: write
     steps:
 
-      # ── Overview Stats ──────────────────────────────────────
-      - name: 📊 Overview
+      # ── Header (Avatar & Info) ──────────────────────────────
+      - name: 👤 Header
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.GH_TOKEN }}
           user: dnettoRaw
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, metadata
+          config_timezone: Europe/Paris
+          filename: generated/header.svg
+
+      # ── Stats (Activity & Community) ────────────────────────
+      - name: 📊 Stats
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+          user: dnettoRaw
+          template: classic
+          base: activity, community, repositories
           config_timezone: Europe/Paris
           config_display: large
-          filename: generated/overview.svg
+          filename: generated/stats.svg
 
       # ── Most Used Languages ─────────────────────────────────
       - name: 💬 Languages

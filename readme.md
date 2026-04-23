@@ -38,18 +38,14 @@
 
 ### 📊 GitHub Stats
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="./generated/overview.svg" alt="GitHub Overview" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="./generated/languages.svg" alt="Most Used Languages" />
-    </td>
-  </tr>
-</table>
+
+<div align="center">
+  <img src="./generated/header.svg" alt="Daniel Netto" />
+  <br/>
+  <img src="./generated/stats.svg" alt="GitHub Stats" />
+  <br/>
+  <img src="./generated/languages.svg" alt="Most Used Languages" />
+</div>
 
 ---
 

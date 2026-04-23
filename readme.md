@@ -39,8 +39,9 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="./generated/overview.svg" alt="GitHub Overview" width="49%" />
-  <img src="./generated/languages.svg" alt="Most Used Languages" width="49%" />
+  <img src="./generated/overview.svg" alt="GitHub Overview" />
+  <br/>
+  <img src="./generated/languages.svg" alt="Most Used Languages" />
 </div>
 
 ---

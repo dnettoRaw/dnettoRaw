@@ -38,12 +38,18 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="./generated/overview.svg" alt="GitHub Overview" />
-</p>
-<p align="center">
-  <img src="./generated/languages.svg" alt="Most Used Languages" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="./generated/overview.svg" alt="GitHub Overview" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="./generated/languages.svg" alt="Most Used Languages" />
+    </td>
+  </tr>
+</table>
 
 ---
 
